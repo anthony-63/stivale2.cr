@@ -1,6 +1,8 @@
 # stivale2
 
-TODO: Write a description here
+A port of the C boot protocol stivale2 to crystal
+
+TODO: EVERYTHING!!! Nothing is done yet
 
 ## Installation
 
@@ -20,12 +22,6 @@ TODO: Write a description here
 require "stivale2"
 ```
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
 1. Fork it (<https://github.com/your-github-user/stivale2/fork>)
@@ -36,4 +32,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [Anthony Palmari](https://github.com/meep-m0rp) - creator and maintainer
